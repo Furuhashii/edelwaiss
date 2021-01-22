@@ -28,7 +28,7 @@ async def koc(e):
         await e.edit("SAYANG")
         await e.edit("KAMU")
         await e.edit("I LOVE YOUUUU")
-        await e.edit("MY BABY")
+        await e.edit("MY HONEY")
         await e.edit("💕💞💘💝")
         await e.edit("💘💕💞💝")
         await e.edit("SAYANG KAMU💞")
@@ -37,58 +37,59 @@ async def koc(e):
 @register(outgoing=True, pattern='^.dino(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("`DIN DINNN.....`")
+    await typew.edit("`AAA ADEEELLL.....`")
     sleep(1)
-    await typew.edit("`DINOOOOSAURUSSSSS!!`")
+    await typew.edit("`RUN!!, ADELIA MENAKUTKAN`")
     sleep(1)
-    await typew.edit("`🏃                        🦖`")
-    await typew.edit("`🏃                       🦖`")
-    await typew.edit("`🏃                      🦖`")
-    await typew.edit("`🏃                     🦖`")
-    await typew.edit("`🏃   `LARII`          🦖`")
-    await typew.edit("`🏃                   🦖`")
-    await typew.edit("`🏃                  🦖`")
-    await typew.edit("`🏃                 🦖`")
-    await typew.edit("`🏃                🦖`")
-    await typew.edit("`🏃               🦖`")
-    await typew.edit("`🏃              🦖`")
-    await typew.edit("`🏃             🦖`")
-    await typew.edit("`🏃            🦖`")
-    await typew.edit("`🏃           🦖`")
-    await typew.edit("`🏃WOARGH!   🦖`")
-    await typew.edit("`🏃           🦖`")
-    await typew.edit("`🏃            🦖`")
-    await typew.edit("`🏃             🦖`")
-    await typew.edit("`🏃              🦖`")
-    await typew.edit("`🏃               🦖`")
-    await typew.edit("`🏃                🦖`")
-    await typew.edit("`🏃                 🦖`")
-    await typew.edit("`🏃                  🦖`")
-    await typew.edit("`🏃                   🦖`")
-    await typew.edit("`🏃                    🦖`")
-    await typew.edit("`🏃                     🦖`")
-    await typew.edit("`🏃  Huh-Huh           🦖`")
-    await typew.edit("`🏃                   🦖`")
-    await typew.edit("`🏃                  🦖`")
-    await typew.edit("`🏃                 🦖`")
-    await typew.edit("`🏃                🦖`")
-    await typew.edit("`🏃               🦖`")
-    await typew.edit("`🏃              🦖`")
-    await typew.edit("`🏃             🦖`")
-    await typew.edit("`🏃            🦖`")
-    await typew.edit("`🏃           🦖`")
-    await typew.edit("`🏃          🦖`")
-    await typew.edit("`🏃         🦖`")
+    await typew.edit("`🏃                        🏃‍♀️`")
+    await typew.edit("`🏃                       🏃‍♀️`")
+    await typew.edit("`🏃                      🏃‍♀️`")
+    await typew.edit("`🏃                     🏃‍♀️`")
+    await typew.edit("`🏃   `LARII`          🏃‍♀️`")
+    await typew.edit("`🏃                   🏃‍♀️`")
+    await typew.edit("`🏃                  🏃‍♀️`")
+    await typew.edit("`🏃                 🏃‍♀️`")
+    await typew.edit("`🏃                🏃‍♀️`")
+    await typew.edit("`🏃               🏃‍♀️`")
+    await typew.edit("`🏃              🏃‍♀️`")
+    await typew.edit("`🏃             🏃‍♀️`")
+    await typew.edit("`🏃            🏃‍♀️`")
+    await typew.edit("`🏃           🏃‍♀️`")
+    await typew.edit("`🏃QIH STOP! 🏃‍♀️`")
+    await typew.edit("`🏃           🏃‍♀️`")
+    await typew.edit("`🏃            🏃‍♀️`")
+    await typew.edit("`🏃             🏃‍♀️`")
+    await typew.edit("`🏃              🏃‍♀️`")
+    await typew.edit("`🏃               🏃‍♀️`")
+    await typew.edit("`🏃                🏃‍♀️`")
+    await typew.edit("`🏃                 🏃‍♀️`")
+    await typew.edit("`🏃                  🏃‍♀️`")
+    await typew.edit("`🏃                   🏃‍♀️`")
+    await typew.edit("`🏃                    🏃‍♀️`")
+    await typew.edit("`🏃                     🏃‍♀️`")
+    await typew.edit("`🏃  Huh-Huh           🏃‍♀️`")
+    await typew.edit("`🏃                   🏃‍♀️`")
+    await typew.edit("`🏃                  🏃‍♀️`")
+    await typew.edit("`🏃                 🏃‍♀️`")
+    await typew.edit("`🏃                🏃‍♀️`")
+    await typew.edit("`🏃               🏃‍♀️`")
+    await typew.edit("`🏃              🏃‍♀️`")
+    await typew.edit("`🏃             🏃‍♀️`")
+    await typew.edit("`🏃            🏃‍♀️`")
+    await typew.edit("`🏃           🏃‍♀️`")
+    await typew.edit("`🏃          🏃‍♀️`")
+    await typew.edit("`🏃         🏃‍♀️`")
     await typew.edit("`DIA SEMAKIN MENDEKAT!!!`")
     sleep(1)
-    await typew.edit("`🏃       🦖`")
-    await typew.edit("`🏃      🦖`")
-    await typew.edit("`🏃     🦖`")
-    await typew.edit("`🏃    🦖`")
+    await typew.edit("`🏃       🏃‍♀️`")
+    await typew.edit("`🏃      🏃‍♀️`")
+    await typew.edit("`🏃     🏃‍♀️`")
+    await typew.edit("`🏃    🏃‍♀️`")
     await typew.edit("`Dahlah Pasrah Aja`")
     sleep(1)
-    await typew.edit("`🧎🦖`")
+    await typew.edit("`🧎🏃‍♀️`")
     sleep(2)
+    await typew.edit("`-👩‍❤️‍👨 NGENTOD 👩‍❤️‍💋‍👨-`")
     await typew.edit("`-TAMAT-`")
 
 
@@ -393,12 +394,23 @@ async def _(event):
             "`Connecting Ke Server Cinta`",
             "`Mencari Target Cinta`",
             "`Mengirim Cintaku.. 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Mengirim Cintaku.. 4%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Mengirim Cintaku.. 8%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Mengirim Cintaku.. 20%\n█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Mengirim Cintaku.. 36%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Mengirim Cintaku.. 52%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
-            "`Mengirim Cintaku.. 84%\n█████████████████████▒▒▒▒ `",
+            "`Mengirim Cintaku.. 5%\n█▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 10%\n██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 15%\n███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 20%\n████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 25%\n█████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 30%\n██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 35%\n███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 40%\n████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 45%\n█████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 50%\n██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 65%\n███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 70%\n████████████▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 75%\n█████████████▒▒▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 80%\n███████████████▒▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 85%\n████████████████▒▒▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 90%\n██████████████████▒▒▒▒▒▒▒ `",
+            "`Mengirim Cintaku.. 95%\n█████████████████████▒▒▒▒ `",
             "`Mengirim Cintaku.. 100%\n█████████CINTAKU███████████ `",
             f"`Cintaku Sekarang Sepenuhnya Terkirim Padamu, Dan Sekarang Aku Sangat Mencintai Mu, I Love You 💞`"]
 
@@ -419,7 +431,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`I NEED YOU!`")
     sleep(1)
-    await typew.edit("`I WANT TO BE YOUR BOYFRIEND!`")
+    await typew.edit("`I WANT TO BE YOUR HUSBAND!`")
     sleep(1)
     await typew.edit("`I LOVEE YOUUUU💕💗`")
     sleep(1)
@@ -431,7 +443,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`I LOVEE YOUUUU💘💓`")
     sleep(1)
-    await typew.edit("`Tapi Bo'ong`")
+    await typew.edit("`MAUKAH ENGKAU MENIKAH DENGANKU`")
 # Create by myself @localheart
 
 CMD_HELP.update({
